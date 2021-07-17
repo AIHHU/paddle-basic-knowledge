@@ -1,0 +1,2 @@
+# paddle-basic-knowledge
+讲述了paddle在动态图模式下所使用的数据结构tensor的基本操作以及如何在静态图模式下用paddle进行建模
